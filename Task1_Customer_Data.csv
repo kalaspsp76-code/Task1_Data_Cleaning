@@ -1,0 +1,16 @@
+﻿CustomerID,Name,Age,Gender,City,Income,PurchaseAmount,PurchaseDate
+1001,Anita,22,Female,Bengaluru,35000,2500,2026-01-05
+1002,Rahul,25,Male,Mysuru,42000,3200,2026-01-08
+1003,Priya,,female,Bengaluru,38000,2800,2026-01-10
+1004,Arjun,29,M,Hubli,45000,4100,2026-01-12
+1005,Sneha,24,Female,Mysore,,3000,2026-01-15
+1006,Kiran,31,male,Bengaluru,52000,4700,15/01/2026
+1007,Vijay,27,Male,Hubli,40000,3500,2026-01-18
+1008,Meena,23,F,Bangalore,36000,,2026-01-20
+1009,Ravi,30,Male,Mysuru,48000,3900,2026-01-22
+1010,Divya,26,Female,Bengaluru,41000,3300,2026-01-25
+1010,Divya,26,Female,Bengaluru,41000,3300,2026-01-25
+1011,Suresh,28,Male,Bangalore,46000,3600,2026-01-28
+1012,Asha,21,female,Mysore,32000,2200,2026-02-01
+1013,Manoj,33,M,Hubli,55000,5000,2026-02-04
+1014,Nisha,27,Female,Bengaluru,39000,3100,2026-02-07
